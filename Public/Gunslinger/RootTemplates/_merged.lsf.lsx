@@ -225,7 +225,7 @@
 					<attribute id="CanShootThrough" type="bool" value="True" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h22dbf160563d41ac908e3351f6bdcd25d6e7" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
                     <attribute id="Description" type="TranslatedString" handle="h06d21706f0bb4f5693c9d73bc24eca3e856f" version="1" /><!--Replace ItemDescriptionHandle with a new Handle generaged by Modders Multitool!--> 
-					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
+					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="Colt_Army" /><!--Replace IconName with the name of an icon either from the game or that you are adding!-->
 					<attribute id="IsInspector" type="bool" value="True" />
@@ -247,14 +247,14 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="eee3ae27-dc6c-4fc9-4592-0c710c796c39" />
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
 								</node>
 							</children>
 						</node>
 						<node id="StatusList">
 							<children>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="FIREARM_MOD_STATUS" />
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
 								</node>
 							</children>
 						</node>
@@ -286,7 +286,7 @@
 					<attribute id="CanShootThrough" type="bool" value="True" />
                     <attribute id="DisplayName" type="TranslatedString" handle="h657d4a00544b482aacada2f38d26d444b83b" version="1" /> <!--Replace ItemNameHandle with a new Handle generaged by Modders Multitool!-->
                     <attribute id="Description" type="TranslatedString" handle="h429a6be98335474cb7ccc23dd6bd7323089c" version="1" /><!--Replace ItemDescriptionHandle with a new Handle generaged by Modders Multitool!--> 
-					<attribute id="EquipmentTypeID" type="guid" value="87fbc05b-c870-4bc1-95fb-56ea3fcb9e22" /> This determines the animations and how the weapon is held
+					<attribute id="EquipmentTypeID" type="guid" value="a177942e-e0fc-406e-b34e-5c9157b43aee" /> This determines the animations and how the weapon is held
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="Icon" type="FixedString" value="Colt_Army" /><!--Replace IconName with the name of an icon either from the game or that you are adding!-->
 					<attribute id="IsInspector" type="bool" value="True" />
@@ -308,14 +308,14 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="eee3ae27-dc6c-4fc9-4592-0c710c796c39" />
+									<attribute id="Object" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
 								</node>
 							</children>
 						</node>
 						<node id="StatusList">
 							<children>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="FIREARM_MOD_STATUS" />
+									<attribute id="Object" type="FixedString" value="GS_FIREARM_MOD_STATUS" />
 								</node>
 							</children>
 						</node>

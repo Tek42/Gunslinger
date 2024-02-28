@@ -6,7 +6,6 @@
       <children>
         <node id="ClassDescription">
                     <attribute id="BaseHp" type="int32" value="8"/>
-                    <attribute id="CanLearnSpells" type="bool" value="true"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Gunslinger" />
 					          <attribute id="Description" type="TranslatedString" handle="hb22b8030a91c433eb55869b160b7dad90cc3" version="1" />
@@ -14,7 +13,6 @@
                     <attribute id="HpPerLevel" type="int32" value="5"/>
                     <attribute id="HasGod" type="bool" value="false" />
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
                     <attribute id="Name" type="FixedString" value="Gunslinger" />
                     <attribute id="PrimaryAbility" type="uint8" value="2" />
@@ -28,6 +26,9 @@
                         </node>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="37a733c1-a862-4157-b92a-9cff46232c6a"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="1ae7017c-4884-4a43-bc4a-742fa0d201c0"/>
                         </node>
                     </children>
                 </node>
