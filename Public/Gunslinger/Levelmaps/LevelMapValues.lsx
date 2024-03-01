@@ -36,6 +36,13 @@
                     <attribute id="Name" type="FixedString" value="GunslingerFTH"/>
                     <attribute id="UUID" type="guid" value="d9e63125-0d1e-42b9-812e-1d055ff45483"/>
                 </node>
+                 <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d8"/>
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level10" type="LSString" value="1d10"/>
+                    <attribute id="Name" type="FixedString" value="GSSuperiorityDie"/>
+                    <attribute id="UUID" type="guid" value="fb6e045b-c6d4-42ee-b2f2-a18630dde3a0"/>
+                </node>
             </children>
         </node>
     </region>
