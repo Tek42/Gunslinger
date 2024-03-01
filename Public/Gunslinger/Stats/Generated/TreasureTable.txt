@@ -1,22 +1,3 @@
-new treasuretable "TUT_Chest_Potions"
-CanMerge 1
-new subtable "1,1"
-object category "I_GS_Colt_Navy",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_GS_Colt_Navy_Clean",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_GS_Colt_Navy_Clean_2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_RepairBox_Gun_v2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_RepairBox_Gun_v3",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_RepairBox_Gun_v4",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_GS_Colt_Army_Worn",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_GS_Colt_Army",1,0,0,0,0,0,0,0
-
 new treasuretable "PLA_ZhentarimTrader_Common"
 CanMerge 1
 new subtable "1,1"

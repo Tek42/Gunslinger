@@ -6,7 +6,7 @@
       <children>
         <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Gunslinger Level 1" />
-                    <attribute id="Spells" type="LSString" value="Shout_GunslingerFocus;Target_AimWithMyEye" /> 
+                    <attribute id="Spells" type="LSString" value="Shout_GunslingerFocus;Target_AimWithMyEye;GS_FTH_MH" /> 
                     <attribute id="UUID" type="guid" value="221ad8c3-c1d7-44fa-8b5a-977c0f1c8491" />
 				</node>
         <node id="SpellList">
