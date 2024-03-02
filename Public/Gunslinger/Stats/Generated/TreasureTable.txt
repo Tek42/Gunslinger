@@ -39,6 +39,8 @@ new subtable "1,1"
 object category "I_OBJ_RepairBox_Gun_v4",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_RepairBox_Gun_v4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_GS_Gun_Switcher",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_Danthelon_Trader"
 CanMerge 1
@@ -50,6 +52,8 @@ new subtable "1,1"
 object category "I_GS_Colt_Navy_Clean_2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_GS_Colt_Navy_Clean_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_GS_Gun_Switcher",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_ArmouryQuartermaster"
 CanMerge 1
@@ -61,6 +65,8 @@ new subtable "1,1"
 object category "I_GS_Colt_Navy_Clean_2",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_GS_Colt_Navy_Clean_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_GS_Gun_Switcher",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_Weaponsmith_Trade"
 CanMerge 1

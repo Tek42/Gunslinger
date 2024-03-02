@@ -83,4 +83,6 @@
 	<content contentuid="h359bdb7e78e043a59b8e18d68ef10a915c1g" version="1">You can evade attacks by imposing &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on melee attacks against you for a round.</content>
     <content contentuid="he6c59ef1952c45bebcbce1c6c0fb165836ee" version="1">Gunslinger's Resolve</content>
     <content contentuid="h94dbae90f864477292d7d0adedafff67a694" version="1">On Damage Rolls, roll twice and use the higher result.</content>
+    <content contentuid="hb346d8006f2f4ec6ae04929d83dbcb472b06" version="1">Gun Transmogger</content>
+    <content contentuid="h0f757503f7fd4d5ea01779729b380f5bc3d4" version="1">Switches between the Colt Navy and Army models.</content>
 </contentList>
